@@ -1,0 +1,6 @@
+{
+  "name": "SmartAstro",
+  "description": "SmartAstro - AI-Powered Astrology & Numerology. A premium Dark Cosmic Vedic Astrology & Pythagorean Numerology calculation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
